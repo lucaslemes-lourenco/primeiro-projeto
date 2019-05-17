@@ -1,0 +1,122 @@
+body{
+  margin-left: auto;
+  margin-right: auto;
+  width: 720px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+}
+.conteudo {
+  background-color:blueviolet;
+  border-radius: 10px;
+}
+.busca{
+  float: right;
+  margin: 100px;
+}
+.digite{
+  padding: 8px;
+  border-radius:10px;
+}
+.foster{
+  margin: 10px;
+  border-radius: 10px;
+}
+nav{
+  background-color: aqua; 
+  text-align: center;
+  border-radius: 10px;
+  height: 50px; 
+}
+nav li{
+  display: inline-block;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+  background-color: beige;
+  border-radius: 10px;
+  transition: 2s;
+}
+a{
+  color: #000;
+}
+li:hover{
+  background-color: blue;
+}
+.menu{
+  text-transform: uppercase;
+}
+main{
+  margin-right: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+}
+article{
+  box-sizing: border-box;
+  background-color: #D9E5E3;
+  margin-left: auto;
+  margin-right: auto;
+  width: 250px;
+  float: left;
+  margin: 20px;
+    
+}
+.moni{
+  width: 200px;
+  height: 200px;
+  float: right;
+  margin-right: 30px;
+  margin-right: 30px;
+  text-align: center;
+}
+footer{
+  background-color: #000;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #D9E5E3;
+  border-radius: 10px;
+  text-align: center; 
+  padding: 10px;
+}
+.git{
+  float: right;
+  display: inline-block;
+  height: 30px;
+}
+p{
+  line-height: 1.5;
+  display: inline-block;
+  text-align: justify;
+}
+.textmoni{
+  margin: 30px;
+  display: inline-block;
+}
+span{
+  font-weight: bold;
+}
+.text1{
+  margin: 20px;
+}
+.text2{
+  margin: 20px;
+}
+aside{
+  box-sizing: border-box;
+  background-color: #D9E5E3;
+  margin-left: auto;
+  margin-right: auto;
+  width: 250px;
+  float: right;
+  margin: 20px;
+}
+.mater{
+  margin: 10px;
+  margin-left: 30px;
+  margin-right: 30px; 
+}
+.texttrab{
+  margin: 30px;
+  display: inline-block;
+}
+.conteudo2{
+  height: 547px;
+}
